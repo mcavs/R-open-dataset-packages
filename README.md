@@ -31,6 +31,8 @@ This repository provides information about the R packages used to tidy access da
 * [ojsr](https://cran.r-project.org/web/packages/ojsr/index.html): Crawler and Data Scraper for Open Journal System ('OJS')
 * [geofabrik](https://cran.r-project.org/web/packages/geofabrik/index.html): Downloading Open Street Map Data
 * [malariaAtlas](https://cran.r-project.org/web/packages/malariaAtlas/index.html): An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project'
+* [ROpenWeatherMap](https://cran.r-project.org/web/packages/ROpenWeatherMap/index.html): R Interface to OpenWeatherMap API
+* [rfisheries](https://cran.r-project.org/web/packages/rfisheries/index.html): 'Programmatic Interface to the 'openfisheries.org' API'
 
 
 ## Canada
@@ -39,6 +41,7 @@ This repository provides information about the R packages used to tidy access da
 * [VancouvR](https://cran.r-project.org/web/packages/VancouvR/index.html): Access the 'City of Vancouver' Open Data API
 * [rgovcan](https://cran.r-project.org/web/packages/rgovcan/index.html): Easy Access to the Canadian Open Government Portal
 * [opendatatoronto](https://cran.r-project.org/web/packages/opendatatoronto/index.html): Access the City of Toronto Open Data Portal
+* [opentraj](https://cran.r-project.org/web/packages/opentraj/opentraj.pdf): Tools for Creating and Analysing Air Trajectory Data
 
 
 ## Czech Republic
@@ -50,12 +53,14 @@ This repository provides information about the R packages used to tidy access da
 
 * [stats19](https://cran.r-project.org/web/packages/stats19/index.html): Work with Open Road Traffic Casualty Data from Great Britain
 * [eyedata](https://cran.r-project.org/web/packages/eyedata/index.html): Open Source Ophthalmic Data Sets Curated for R
+* [guardianapi](https://cran.r-project.org/web/packages/guardianapi/guardianapi.pdf): Access 'The Guardian' Newspaper Open Data API
 
 
 ## Finland
 
 * [helsinki](https://cran.r-project.org/web/packages/helsinki/index.html): R Tools for Helsinki Open Data
 * [sotkanet](https://cran.r-project.org/web/packages/sotkanet/sotkanet.pdf): Sotkanet Open Data Access and Analysis
+* [sorvi](https://cran.r-project.org/web/packages/sorvi/index.html): Finnish Open Government Data Toolkit
 
 
 ## Mongolia
@@ -67,12 +72,14 @@ This repository provides information about the R packages used to tidy access da
 
 * [read.gb](https://cran.r-project.org/web/packages/read.gb/index.html): Open GenBank Files
 * [eia](https://cran.r-project.org/web/packages/eia/index.html): API Wrapper for 'US Energy Information Administration' Open Data
+* [ropensecretsapi](https://cran.r-project.org/web/packages/ropensecretsapi/index.html): R Package for the OpenSecrets.org API
+* [crimedata](https://cran.r-project.org/web/packages/crimedata/index.html): Access Crime Data from the Open Crime Database
+* [walmartAPI](https://cran.r-project.org/web/packages/walmartAPI/index.html): Walmart Open API Wrapper
 
 
 ## Switzerland
 
 * [swissdd](https://cran.r-project.org/web/packages/swissdd/index.html): Get Swiss Federal and Cantonal Vote Results from Opendata.swiss
-* []()
 
 
 ## Sweden
@@ -84,7 +91,6 @@ This repository provides information about the R packages used to tidy access da
 
 * [importinegi](https://cran.r-project.org/web/packages/importinegi/index.html): Download and Manage Open Data from INEGI
 * [istacr](https://cran.r-project.org/web/packages/istacr/index.html): Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API
-* []()
 
 
 ## Netherland
@@ -100,3 +106,13 @@ This repository provides information about the R packages used to tidy access da
 ## Brasil
 
 * [owdbr](https://cran.r-project.org/web/packages/owdbr/index.html): Open Welfare Data Brazil
+
+
+## Denmark
+
+* [kulife](https://cran.r-project.org/web/packages/kulife/index.html): Datasets and functions from the (now non-existing) Faculty of Life Sciences, University of Copenhagen
+
+
+## Peru
+
+* [cropdatape](https://cran.r-project.org/web/packages/cropdatape/index.html): Open Data of Agricultural Production of Crops of Peru
