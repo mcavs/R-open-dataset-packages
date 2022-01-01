@@ -4,7 +4,7 @@ This repository provides information about the R packages used to tidy access da
 
 ## Turkey
 
-* [thestats](https://github.com/analyticsresearchlab/thestats)
+* [thestats](https://github.com/analyticsresearchlab/thestats): An R package for exploring Turkish higher education statistics
 
 
 ## Europe
