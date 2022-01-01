@@ -6,11 +6,13 @@ This repository provides information about the R packages used to tidy access da
 
 * [thestats](https://github.com/analyticsresearchlab/thestats): An R package for exploring Turkish higher education statistics
 * [TCMB](https://github.com/rpydaneogrendim/TCMB): An R package to pulls data from the TCMB/EVDS system, saves it and makes a simple visualization.
+* [ibb](https://cran.r-project.org/web/packages/ibb/index.html): R Wrapper for Istanbul Municipality Open Data Portal
 
 
 ## Europe
 
 * [eurostat](https://cran.r-project.org/web/packages/eurostat/index.html): Tools for Eurostat Open Data
+* [RCGLS](https://cran.r-project.org/web/packages/RCGLS/index.html): Download and Open Data Provided by the Copernicus Global Land Service
 
 
 ## Australia
@@ -25,6 +27,10 @@ This repository provides information about the R packages used to tidy access da
 * [osmdata](https://cran.r-project.org/web/packages/osmdata/index.html): Import 'OpenStreetMap' Data as Simple Features or Spatial Objects
 * [repairData](https://cran.r-project.org/web/packages/repairData/index.html): Open Repair Alliance Datasets 2021
 * [Rilostat](https://cran.r-project.org/web/packages/Rilostat/index.html): ILO Open Data via Ilostat Bulk Download Facility or SDMX Web Service
+* [jaod](https://cran.r-project.org/web/packages/jaod/index.html): Directory of Open Access Journals Client
+* [ojsr](https://cran.r-project.org/web/packages/ojsr/index.html): Crawler and Data Scraper for Open Journal System ('OJS')
+* [geofabrik](https://cran.r-project.org/web/packages/geofabrik/index.html): Downloading Open Street Map Data
+* [malariaAtlas](https://cran.r-project.org/web/packages/malariaAtlas/index.html): An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project'
 
 
 ## Canada
@@ -32,6 +38,7 @@ This repository provides information about the R packages used to tidy access da
 * [statcanR](https://cran.r-project.org/web/packages/statcanR/index.html): Client for Statistics Canada's Open Economic Data
 * [VancouvR](https://cran.r-project.org/web/packages/VancouvR/index.html): Access the 'City of Vancouver' Open Data API
 * [rgovcan](https://cran.r-project.org/web/packages/rgovcan/index.html): Easy Access to the Canadian Open Government Portal
+* [opendatatoronto](https://cran.r-project.org/web/packages/opendatatoronto/index.html): Access the City of Toronto Open Data Portal
 
 
 ## Czech Republic
@@ -42,6 +49,7 @@ This repository provides information about the R packages used to tidy access da
 ## UK
 
 * [stats19](https://cran.r-project.org/web/packages/stats19/index.html): Work with Open Road Traffic Casualty Data from Great Britain
+* [eyedata](https://cran.r-project.org/web/packages/eyedata/index.html): Open Source Ophthalmic Data Sets Curated for R
 
 
 ## Finland
@@ -58,10 +66,37 @@ This repository provides information about the R packages used to tidy access da
 ## US
 
 * [read.gb](https://cran.r-project.org/web/packages/read.gb/index.html): Open GenBank Files
-* []()
+* [eia](https://cran.r-project.org/web/packages/eia/index.html): API Wrapper for 'US Energy Information Administration' Open Data
 
 
 ## Switzerland
 
 * [swissdd](https://cran.r-project.org/web/packages/swissdd/index.html): Get Swiss Federal and Cantonal Vote Results from Opendata.swiss
 * []()
+
+
+## Sweden
+
+* [covidsymptom](https://cran.r-project.org/web/packages/covidsymptom/index.html): COVID Symptom Study Sweden Open Dataset
+
+
+## Mexico
+
+* [importinegi](https://cran.r-project.org/web/packages/importinegi/index.html): Download and Manage Open Data from INEGI
+* [istacr](https://cran.r-project.org/web/packages/istacr/index.html): Obtaining Open Data from Instituto Canario De Estadistica (ISTAC) API
+* []()
+
+
+## Netherland
+
+* [cbsodataR](https://cran.r-project.org/web/packages/cbsodataR/index.html): Statistics Netherlands (CBS) Open Data API Client
+
+
+## France
+
+* [BARIS](https://cran.r-project.org/web/packages/BARIS/index.html): Access and Import Data from the French Open Data Portal
+
+
+## Brasil
+
+* [owdbr](https://cran.r-project.org/web/packages/owdbr/index.html): Open Welfare Data Brazil
