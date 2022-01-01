@@ -1,6 +1,6 @@
 # R open-data packages
 
-Curating a list of open-data packages in R.
+Curating a list of open-data packages in R by countries.
 
 
 ## Australia
