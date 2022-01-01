@@ -13,6 +13,8 @@ This repository provides information about the R packages used to tidy access da
 
 * [eurostat](https://cran.r-project.org/web/packages/eurostat/index.html): Tools for Eurostat Open Data
 * [RCGLS](https://cran.r-project.org/web/packages/RCGLS/index.html): Download and Open Data Provided by the Copernicus Global Land Service
+* [eurlex](https://cran.r-project.org/web/packages/eurlex/index.html): Retrieve Data on European Union Law
+* [psData](https://cran.r-project.org/web/packages/psData/psData.pdf): Download Regularly Maintained Political Science Data Sets
 
 
 ## Australia
@@ -54,6 +56,7 @@ This repository provides information about the R packages used to tidy access da
 * [stats19](https://cran.r-project.org/web/packages/stats19/index.html): Work with Open Road Traffic Casualty Data from Great Britain
 * [eyedata](https://cran.r-project.org/web/packages/eyedata/index.html): Open Source Ophthalmic Data Sets Curated for R
 * [guardianapi](https://cran.r-project.org/web/packages/guardianapi/guardianapi.pdf): Access 'The Guardian' Newspaper Open Data API
+* [hansard](https://github.com/ropengov/hansard): Accessing Westminster Parliament Data
 
 
 ## Finland
@@ -61,7 +64,10 @@ This repository provides information about the R packages used to tidy access da
 * [helsinki](https://cran.r-project.org/web/packages/helsinki/index.html): R Tools for Helsinki Open Data
 * [sotkanet](https://cran.r-project.org/web/packages/sotkanet/sotkanet.pdf): Sotkanet Open Data Access and Analysis
 * [sorvi](https://cran.r-project.org/web/packages/sorvi/index.html): Finnish Open Government Data Toolkit
-
+* [geofi](https://cran.r-project.org/web/packages/geofi/index.html): Access Finnish Geospatial Data
+* [vipunen](https://github.com/ropengov/vipunen): A client package for Vipunen, the Finland education administration's reporting portal.
+* [digitransit](https://github.com/rOpenGov/digitransit): Geocode and reverse geocode addresses and poinst in Finland.
+* [hetu](https://github.com/ropengov/hetu): Structural Handling of Finnish Personal Identity Numbers
 
 ## Mongolia
 
@@ -75,6 +81,8 @@ This repository provides information about the R packages used to tidy access da
 * [ropensecretsapi](https://cran.r-project.org/web/packages/ropensecretsapi/index.html): R Package for the OpenSecrets.org API
 * [crimedata](https://cran.r-project.org/web/packages/crimedata/index.html): Access Crime Data from the Open Crime Database
 * [walmartAPI](https://cran.r-project.org/web/packages/walmartAPI/index.html): Walmart Open API Wrapper
+* [RPublica](https://cran.r-project.org/web/packages/RPublica/index.html): ProPublica API Client
+* [mpg](https://github.com/ropengov/mpg): Extract fuel economy data from FuelEconomy.gov.
 
 
 ## Switzerland
@@ -85,6 +93,7 @@ This repository provides information about the R packages used to tidy access da
 ## Sweden
 
 * [covidsymptom](https://cran.r-project.org/web/packages/covidsymptom/index.html): COVID Symptom Study Sweden Open Dataset
+* [rqog](https://github.com/ropengov/rqog): R client for the Quality of Government (QOG) open data
 
 
 ## Mexico
@@ -111,8 +120,14 @@ This repository provides information about the R packages used to tidy access da
 ## Denmark
 
 * [kulife](https://cran.r-project.org/web/packages/kulife/index.html): Datasets and functions from the (now non-existing) Faculty of Life Sciences, University of Copenhagen
+* [dkstat](https://github.com/ropengov/dkstat): Connects to the StatBank API from Statistics Denmark.
 
 
 ## Peru
 
 * [cropdatape](https://cran.r-project.org/web/packages/cropdatape/index.html): Open Data of Agricultural Production of Crops of Peru
+
+
+## India
+
+* [ogdindiar](https://github.com/ropengov/ogdindiar): R Package to access Open Government Data from India.
