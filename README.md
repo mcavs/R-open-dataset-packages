@@ -35,6 +35,13 @@ This repository provides information about the R packages used to tidy access da
 * [malariaAtlas](https://cran.r-project.org/web/packages/malariaAtlas/index.html): An R Interface to Open-Access Malaria Data, Hosted by the 'Malaria Atlas Project'
 * [ROpenWeatherMap](https://cran.r-project.org/web/packages/ROpenWeatherMap/index.html): R Interface to OpenWeatherMap API
 * [rfisheries](https://cran.r-project.org/web/packages/rfisheries/index.html): 'Programmatic Interface to the 'openfisheries.org' API'
+* [qualtRics: Download 'Qualtrics' Survey Data](https://cloud.r-project.org/web/packages/qualtRics/index.html)
+* [ruODK: An R Client for the ODK Central API](https://docs.ropensci.org/ruODK/)
+* [riem](https://docs.ropensci.org/riem/): Allows to get weather data from ASOS stations (airports) via the great website of the Iowa Environment Mesonet.
+* [rebird](https://cloud.r-project.org/web/packages/rebird/index.html): R Client for the eBird Database of Bird Observations
+* [rdhs](https://cran.r-project.org/web/packages/rdhs/index.html): API Client and Dataset Management for the Demographic and Health Survey (DHS) Data
+* [rWBclimate](https://cloud.r-project.org/web/packages/rWBclimate/index.html): A package for accessing World Bank climate data
+* [rrricanesdata](https://github.com/ropensci/rrricanesdata): Includes storm discussions, forecast/advisories, public advisories, wind speed probabilities, strike probabilities and more.
 
 
 ## Canada
@@ -44,6 +51,7 @@ This repository provides information about the R packages used to tidy access da
 * [rgovcan](https://cran.r-project.org/web/packages/rgovcan/index.html): Easy Access to the Canadian Open Government Portal
 * [opendatatoronto](https://cran.r-project.org/web/packages/opendatatoronto/index.html): Access the City of Toronto Open Data Portal
 * [opentraj](https://cran.r-project.org/web/packages/opentraj/opentraj.pdf): Tools for Creating and Analysing Air Trajectory Data
+* [tidyhydat](https://docs.ropensci.org/tidyhydat/): Extract and Tidy Canadian 'Hydrometric' Data
 
 
 ## Czech Republic
@@ -57,6 +65,8 @@ This repository provides information about the R packages used to tidy access da
 * [eyedata](https://cran.r-project.org/web/packages/eyedata/index.html): Open Source Ophthalmic Data Sets Curated for R
 * [guardianapi](https://cran.r-project.org/web/packages/guardianapi/guardianapi.pdf): Access 'The Guardian' Newspaper Open Data API
 * [hansard](https://github.com/ropengov/hansard): Accessing Westminster Parliament Data
+* [nomisr: Access 'Nomis' UK Labour Market Data](https://cran.r-project.org/web/packages/nomisr/index.html)
+* [helminthR](https://cloud.r-project.org/web/packages/helminthR/index.html): Access London Natural History Museum Host-Helminth Record Database
 
 
 ## Finland
@@ -68,6 +78,7 @@ This repository provides information about the R packages used to tidy access da
 * [vipunen](https://github.com/ropengov/vipunen): A client package for Vipunen, the Finland education administration's reporting portal.
 * [digitransit](https://github.com/rOpenGov/digitransit): Geocode and reverse geocode addresses and poinst in Finland.
 * [hetu](https://github.com/ropengov/hetu): Structural Handling of Finnish Personal Identity Numbers
+
 
 ## Mongolia
 
@@ -83,6 +94,10 @@ This repository provides information about the R packages used to tidy access da
 * [walmartAPI](https://cran.r-project.org/web/packages/walmartAPI/index.html): Walmart Open API Wrapper
 * [RPublica](https://cran.r-project.org/web/packages/RPublica/index.html): ProPublica API Client
 * [mpg](https://github.com/ropengov/mpg): Extract fuel economy data from FuelEconomy.gov.
+* [nasapower: NASA POWER API Client](https://cloud.r-project.org/web/packages/nasapower/index.html)
+* [USAboundariesData](https://docs.ropensci.org/USAboundariesData/): Contains datasets, including higher resolution boundary data, for use in the 'USAboundaries' package.
+* [dbhydroR](https://cloud.r-project.org/web/packages/dbhydroR/index.html): 'DBHYDRO' Hydrologic and Water Quality Data
+* [eia](https://cloud.r-project.org/web/packages/eia/index.html): API Wrapper for 'US Energy Information Administration' Open Data
 
 
 ## Switzerland
@@ -105,6 +120,7 @@ This repository provides information about the R packages used to tidy access da
 ## Netherland
 
 * [cbsodataR](https://cran.r-project.org/web/packages/cbsodataR/index.html): Statistics Netherlands (CBS) Open Data API Client
+* [nbaR](https://github.com/ropensci/nbaR): R Package Client for the Netherlands Biodiversity API
 
 
 ## France
@@ -131,3 +147,18 @@ This repository provides information about the R packages used to tidy access da
 ## India
 
 * [ogdindiar](https://github.com/ropengov/ogdindiar): R Package to access Open Government Data from India.
+
+
+## Australia 
+
+* [bomrang](https://docs.ropensci.org/bomrang/): Australian Government Bureau of Meteorology (BOM) Data Client
+
+
+## Chile
+
+* [censo2017](https://cloud.r-project.org/web/packages/censo2017/index.html): 2017 Chilean Census Easy Access Database
+
+
+## Greece
+
+* [hydroscoper](https://docs.ropensci.org/hydroscoper/): R interface to the Greek National Data Bank for Hydrological and Meteorological Information.
