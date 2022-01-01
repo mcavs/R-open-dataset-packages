@@ -89,16 +89,6 @@ This repository provides information about the R packages used to tidy access da
 * [nbaR](https://github.com/ropensci/nbaR): R Package Client for the Netherlands Biodiversity API
 
 
-## UK
-
-* [stats19](https://cran.r-project.org/web/packages/stats19/index.html): Work with Open Road Traffic Casualty Data from Great Britain
-* [eyedata](https://cran.r-project.org/web/packages/eyedata/index.html): Open Source Ophthalmic Data Sets Curated for R
-* [guardianapi](https://cran.r-project.org/web/packages/guardianapi/guardianapi.pdf): Access 'The Guardian' Newspaper Open Data API
-* [hansard](https://github.com/ropengov/hansard): Accessing Westminster Parliament Data
-* [nomisr: Access 'Nomis' UK Labour Market Data](https://cran.r-project.org/web/packages/nomisr/index.html)
-* [helminthR](https://cloud.r-project.org/web/packages/helminthR/index.html): Access London Natural History Museum Host-Helminth Record Database
-
-
 ## Peru
 
 * [cropdatape](https://cran.r-project.org/web/packages/cropdatape/index.html): Open Data of Agricultural Production of Crops of Peru
@@ -120,6 +110,16 @@ This repository provides information about the R packages used to tidy access da
 * [thestats](https://github.com/analyticsresearchlab/thestats): An R package for exploring Turkish higher education statistics
 * [TCMB](https://github.com/rpydaneogrendim/TCMB): An R package to pulls data from the TCMB/EVDS system, saves it and makes a simple visualization.
 * [ibb](https://cran.r-project.org/web/packages/ibb/index.html): R Wrapper for Istanbul Municipality Open Data Portal
+
+
+## UK
+
+* [stats19](https://cran.r-project.org/web/packages/stats19/index.html): Work with Open Road Traffic Casualty Data from Great Britain
+* [eyedata](https://cran.r-project.org/web/packages/eyedata/index.html): Open Source Ophthalmic Data Sets Curated for R
+* [guardianapi](https://cran.r-project.org/web/packages/guardianapi/guardianapi.pdf): Access 'The Guardian' Newspaper Open Data API
+* [hansard](https://github.com/ropengov/hansard): Accessing Westminster Parliament Data
+* [nomisr: Access 'Nomis' UK Labour Market Data](https://cran.r-project.org/web/packages/nomisr/index.html)
+* [helminthR](https://cloud.r-project.org/web/packages/helminthR/index.html): Access London Natural History Museum Host-Helminth Record Database
 
 
 ## US
